@@ -1,4 +1,4 @@
-# Un test technique effectué pour une société
+# Un test technique 
 
 Le but est de développer une interface en React permettant de rechercher des films et d'en afficher les informations.
 
