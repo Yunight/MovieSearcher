@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_URL = "http://www.omdbapi.com/";
-const API_KEY = import.meta.env.VITE_VERCEL_ENV;
+const API_KEY = "53dec109";
 
 export const searchMoviesByTitle = async (title: string, page: number = 1) => {
   try {
