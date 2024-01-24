@@ -24,7 +24,6 @@ Le choix des éléments UI et du style de l'interface est libre.
 Bonus :
 * ajouter une fonctionnalité de tri des résultats
 * ajouter une pagination
-* ajouter des tests unitaires
 * utiliser Typescript
 * utiliser Redux
 
