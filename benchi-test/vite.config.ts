@@ -9,7 +9,4 @@ export default defineConfig({
       plugins: [tailwindcss()],
     },
   },
-  define: {
-    __APP_ENV__: process.env.VITE_VERCEL_ENV,
-  },
 });
