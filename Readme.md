@@ -1,4 +1,4 @@
-# Free test technique
+# Un test technique effectué pour une société
 
 Le but est de développer une interface en React permettant de rechercher des films et d'en afficher les informations.
 
