@@ -1,3 +1,9 @@
+ - git clone the url
+ - npm install inside the project
+ - create  .env and get a token from http://www.omdbapi.com/
+ - inside .env create variable VITE_APP_SECRET = YOUR_TOKEN_HERE   replace YOUR_TOKEN_HERE with your token
+ - npm run dev to start app
+
 # Un test technique 
 
 Le but est de développer une interface en React permettant de rechercher des films et d'en afficher les informations.
@@ -18,7 +24,6 @@ Le choix des éléments UI et du style de l'interface est libre.
 Bonus :
 * ajouter une fonctionnalité de tri des résultats
 * ajouter une pagination
-* ajouter des tests unitaires
 * utiliser Typescript
 * utiliser Redux
 
